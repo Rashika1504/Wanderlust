@@ -1,1 +1,2 @@
 # Wanderlust
+Wanderlust is a dynamic web application built using the MERN stack that facilitates property rentals. It allows users to list and rent properties seamlessly through an intuitive interface. With secure user authentication, individuals can create accounts, manage property listings, and explore rental options tailored to their preferences. This platform is designed to simplify the property rental process while ensuring data integrity and user security, providing a reliable solution for travelers and property owners alike.
